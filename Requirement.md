@@ -9,7 +9,7 @@
 1.Squareroot
 2.Cuberoot
 3.Square
-4.Cub
+4.C
 
 
 
